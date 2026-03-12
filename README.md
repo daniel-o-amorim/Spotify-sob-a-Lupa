@@ -1,7 +1,5 @@
-# Spotify sob a Lupa: Audiência Gratuita ou Lucro Premium? 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://https://mybinder.org/v2/gh/daniel-o-amorim/Spotify-sob-a-Lupa.git/HEAD)
-
+# Spotify sob a Lupa: Audiência Gratuita ou Lucro Premium?  
+  
 Sempre tive curiosidade em entender como o Spotify equilibra as contas oferecendo música "grátis" para tanta gente.  
 Para tirar a teima, decidi meter as mãos na massa: peguei no relatório financeiro oficial de 2025 (o 20-F) e usei um bocado de Python para analisar o que realmente acontece.
 
@@ -9,13 +7,22 @@ A ideia não foi ser um expert em finanças, mas sim olhar para os dados como um
 **afinal, o plano gratuito dá lucro ou é só uma vitrine?**
 
 ---
+### 🚀 Como visualizar o projeto:
+Para abrir o relatório interativo e ver os gráficos a funcionar, clique no botão abaixo:
+
+[![Clique aqui para visualizar o relatório](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daniel-o-amorim/Spotify-sob-a-Lupa.git/HEAD?labpath=Spotify-sob-a-Lupa.ipynb)
+
+> **Dica:** Ao abrir o site, se o relatório não carregar automaticamente, clique no ficheiro **Spotify-sob-a-Lupa.ipynb** na barra lateral esquerda.
+---
 
 ### 🤔 O que eu descobri com esta análise:
 
 **O "sufoco" do plano gratuito:** Manter milhões de pessoas a ouvir música de graça custa caro (servidores, direitos, etc).  
 A margem é apertada (18%), enquanto no Premium a folga financeira é quase o dobro.  
+  
 **O valor de cada um:** Fiz as contas e vi que um assinante rende cerca de **€4,41/mês**, enquanto quem ouve anúncios rende apenas **€0,32**.
 Basicamente, o Spotify precisa de 14 pessoas no gratuito para igualar o valor de 1 assinante.  
+  
 **Quem paga as contas:** No final do dia, **94% do lucro bruto** vem dos assinantes premium.  
 O plano gratuito é uma máquina gigante de atrair gente, mas o lucro mora no Premium.
   
