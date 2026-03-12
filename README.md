@@ -1,20 +1,13 @@
-# Spotify sob a Lupa: Audiência Gratuita ou Lucro Premium?  
+# Spotify sob a Lupa: Audiência Gratuita ou Lucro Premium? 
   
-Sempre tive curiosidade em entender como o Spotify equilibra as contas oferecendo música "grátis" para tanta gente.  
-Para tirar a teima, decidi meter as mãos na massa: peguei no relatório financeiro oficial de 2025 (o 20-F) e usei um bocado de Python para analisar o que realmente acontece.
-
-A ideia não foi ser um expert em finanças, mas sim olhar para os dados como um analista de marketing que quer entender:  
-**afinal, o plano gratuito dá lucro ou é só uma vitrine?**
-
+### 🚀 Como visualizar o relatório:  
+Para abrir o projeto interativo e ver os gráficos a funcionar, clica no botão abaixo:
+  
+[![Visualizar Relatório Interativo](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daniel-o-amorim/Spotify-sob-a-Lupa.git/HEAD?labpath=Spotify-sob-a-Lupa-Daniel_Amorim.ipynb)
+  
+> **Dica:** Se o relatório não carregar automaticamente após o site abrir, basta clicares no ficheiro **Spotify-sob-a-Lupa-Daniel_Amorim.ipynb** que aparece na lista à esquerda.  
+  
 ---
-### 🚀 Como visualizar o projeto:
-Para abrir o relatório interativo e ver os gráficos a funcionar, clique no botão abaixo:
-
-[![Clique aqui para visualizar o relatório](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daniel-o-amorim/Spotify-sob-a-Lupa.git/HEAD?labpath=Spotify-sob-a-Lupa.ipynb)
-
-> **Dica:** Ao abrir o site, se o relatório não carregar automaticamente, clique no ficheiro **Spotify-sob-a-Lupa.ipynb** na barra lateral esquerda.
----
-
 ### 🤔 O que eu descobri com esta análise:
 
 **O "sufoco" do plano gratuito:** Manter milhões de pessoas a ouvir música de graça custa caro (servidores, direitos, etc).  
