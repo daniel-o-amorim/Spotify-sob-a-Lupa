@@ -4,7 +4,7 @@ Sempre tive curiosidade em entender como o Spotify equilibra as contas oferecend
 Para tirar a teima, decidi meter as mãos na massa: peguei no relatório financeiro oficial de 2025 (o 20-F) e usei um bocado de Python para analisar o que realmente acontece.
 
 A ideia não foi ser um expert em finanças, mas sim olhar para os dados como um analista de marketing que quer entender:  
-**afinal, o plano gratuito dá lucro ou é só uma vitrine?**
+**afinal, o plano gratuito dá lucro ou é só uma montra?**
   
 ---  
 ### 🚀 Como visualizar o relatório:  
